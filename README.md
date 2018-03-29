@@ -1,0 +1,3 @@
+# Whatsapp client for iPad
+
+Very simple client for iPad, just a WebView using the User-Agent of macOS...
