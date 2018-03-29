@@ -1,4 +1,4 @@
-# Whatsapp client for iPad
+# WhatsApp client for iPad
 
 The official WhatsApp application does not support iPad, and the web client does not work either because it redirects to the iOS App Store.
 
